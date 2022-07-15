@@ -1,0 +1,31 @@
+body {
+    background-image: url(https://wallpapercave.com/wp/wp9152279.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+h1{
+    color: black;
+    margin-top: 5px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
+
+p{
+    color: white;
+    background-color: transparent;
+}
+
+.a{
+    color: navajowhite;
+    background-color: transparent;
+}
+
+.b{
+    color: whitesmoke;
+}
+
+span{
+    color: white;
+}
